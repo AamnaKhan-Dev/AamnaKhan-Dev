@@ -43,17 +43,22 @@ My work bridges frontend engineering, motion design, and a growing interest in A
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?AamnaKhan-Dev=your-AamnaKhan-Dev&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AamnaKhan-Dev&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=default)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AamnaKhan-Dev=your-AamnaKhan-Dev&layout=compact&theme=default)
+## 📈 Activity & Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=tokyonight)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AamnaKhan-Dev&theme=react-dark)](https://github.com/AamnaKhan-Dev)
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: aamnakhan512@gmail.com  
-- 📞 Phone: +92 04175813294  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aamna-khan-b56866352/)  
+- 📧 Email: aamkhan512@gmail.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/aamna-khan-b56866352/)  
 - 📄 Resume / Portfolio: *[Add link when ready]*
 
 ---
