@@ -41,11 +41,6 @@ My work bridges frontend engineering, motion design, and a growing interest in A
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AamnaKhan-Dev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=default)
----
 
 ## 📈 Activity & Stats
 
