@@ -1,22 +1,24 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/AamnaKhan-Dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Dev+&+Motion+Designer;AI+%26+LLM+Enthusiast;CS+Senior+@+NUST" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=e1a201&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Aamna+Khan+-+CS+Senior+@+NUST;Frontend+Developer+%7C+Motion+Designer;AI+%26+LLM+Explorer+%7C+Visual+Thinker" alt="Typing SVG" 
+    />
   </a>
 </p>
 
 ---
 
 <div align="center">
-
-# 👋 Hi, I’m Aamna Khan
+  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o5anJiZDE0aXVzbW10Z2U4a2I5a2JuOThiYmNuYnpvc3I3MTEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dqcUD8OJFtTFj8yND1/giphy.gif" width="100">
 
 **Code crafter by day, motion designer by night.** Building with React/Next.js, designing with Figma & After Effects, and diving into AI/LLM development.
 
-- 🔭 **Currently Focused On:** Dynamic UI, LLM pipelines & prompt engineering  
-- 🌱 **Learning:** PyTorch, Hugging Face, Cloud DevOps, Motion Design  
-- 🤝 **Collaborating?** Open-source or motion design collabs — I’m in!  
-- 🎧 **Off the Clock:** Motion-reel binge, coffee experiments ☕
+🔭 **Currently Focused On:** DevOps, LLM pipelines, NLP, voice-to-text systems, and prompt engineering  
+🌱 **Learning:** PyTorch, Hugging Face, Docker, Motion Design  
+🤝 **Collaborating?** Open-source, or motion design collabs — I’m in!  
+🎧 **Off the Clock:** Motion-reel binge, coffee experiments ☕
 
 </div>
 
@@ -45,9 +47,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br/>
 
@@ -69,8 +70,10 @@
 ### 🤖 Exploring & Learning  
 <img src="https://img.shields.io/badge/HuggingFace-FCC72C?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-%F0%9F%A4%96-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=00FFE0"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
 
 </div>
 
@@ -88,9 +91,25 @@
 
 ## 📈 GitHub Metrics
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AamnaKhan-Dev&show_icons=true&theme=radical&title_color=00ffe0&icon_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=radical&title_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
+    </td>
+<!--     <td>
+      <img src="https://github-readme-streak-stats.vercel.app?user=AamnaKhan-Dev&hide_border=true&background=0D1117&ring=00ffe0&fire=00ffe0&currStreakLabel=00ffe0&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" />
+    </td> -->
+  </tr>
+</table>
+
+
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AamnaKhan-Dev&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AamnaKhan-Dev&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -103,5 +122,6 @@
   <a href="https://github.com/AamnaKhan-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
+<div align="center">
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWN3Z3l2bmw1dXhlMGFhZDFnenJuN3hoOXhkbndnY2Fhd3kwMG9yMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WEwkj07pcVlS/giphy.gif" width="100">
