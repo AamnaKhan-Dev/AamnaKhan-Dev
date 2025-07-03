@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AamnaKhan-Dev/AamnaKhan-Dev/main/banner.png" width="100%" alt="Aamna Khan Banner"/>
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/AamnaKhan-Dev">
