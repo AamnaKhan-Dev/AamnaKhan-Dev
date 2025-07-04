@@ -99,13 +99,13 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=radical&title_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
     </td>
-<!--     <td>
-      <img src="https://github-readme-streak-stats.vercel.app?user=AamnaKhan-Dev&hide_border=true&background=0D1117&ring=00ffe0&fire=00ffe0&currStreakLabel=00ffe0&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" />
-    </td> -->
   </tr>
 </table>
+<br/>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AamnaKhan-Dev&hide_border=true&background=0D1117&ring=00ffe0&fire=00ffe0&currStreakLabel=00ffe0&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" />
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
