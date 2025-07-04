@@ -104,7 +104,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AamnaKhan-Dev&hide_border=true&background=0D1117&ring=00ffe0&fire=00ffe0&currStreakLabel=00ffe0&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" />
+  <img src="https://streak-stats.demolab.com?user=AamnaKhan-Dev&hide_border=false&background=0D1117&ring=00ffe0&fire=E1AD01&currStreakLabel=E1AD01&currStreakNum=E1AD01&sideNums=00ffe0&sideLabels=ffffff&dates=cccccc" />
 </p>
 
 <!-- Activity Graph -->
