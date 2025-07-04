@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/AamnaKhan-Dev">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=e1a201&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Aamna+Khan+-+CS+Senior+@+NUST;Frontend+Developer+%7C+Motion+Designer;AI+%26+LLM+Explorer+%7C+Visual+Thinker" alt="Typing SVG" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E1AD01&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Aamna+Khan+-+CS+Senior+@+NUST;Frontend+Developer+%7C+Motion+Designer;AI+%26+LLM+Explorer+%7C+Visual+Thinker" alt="Typing SVG" 
     />
   </a>
 </p>
