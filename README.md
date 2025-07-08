@@ -94,7 +94,7 @@
 <div align="center" style="padding: 10px; border: 2px dashed #E1AD01; border-radius: 12px; max-width: 500px; margin: auto;">
   <img src="https://img.icons8.com/color/96/behance.png" width="60" alt="Behance Logo"/>
   <p><strong>✨ Explore my motion reels, design works, and creative experiments ✨</strong></p>
-  <a href="https://www.behance.net/aamnakhan">
+  <a href="https://www.behance.net/aamna_khan">
     <img src="https://img.shields.io/badge/Visit%20My%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </div>
