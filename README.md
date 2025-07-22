@@ -79,13 +79,14 @@
 
 ---
 
-## 🚀 Projects & Highlights
+## 🚀 Projects & Highlights:
+
 
 | Project | What I Built & Learned |
 |--------|-------------------------|
 | [🔗 PakZone](https://github.com/AamnaKhan-Dev/PakZone) | 🛍️ Full-stack e-commerce platform for local businesses — led frontend dev using ReactJS & MongoDB. |
 | [🔗 CMD-Shell](https://github.com/AamnaKhan-Dev/CMD-Shell) | 🖥️ Built a basic Python shell emulator with cd, pwd, echo, and command type checks. Explored OS interaction and shell logic. |
-| [🔗 Digi Mess System](https://github.com/AamnaKhan-Dev/Digi-Mess-System) | 🏫 Hostel mess automation app using Kotlin UI and PostgreSQL backend schema. |
+| [🔗 Sentiment Analysis ML](https://github.com/AamnaKhan-Dev/Sentiment-Analysis-ML) | 🧠 Tool built with Python, using basic ML techniques to classify text as positive, negative, or neutral. |
 
 ---
 
