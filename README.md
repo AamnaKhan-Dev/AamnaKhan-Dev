@@ -9,9 +9,11 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o5anJiZDE0aXVzbW10Z2U4a2I5a2JuOThiYmNuYnpvc3I3MTEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dqcUD8OJFtTFj8yND1/giphy.gif" width="100">
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o5anJiZDE0aXVzbW10Z2U4a2I5a2JuOThiYmNuYnpvc3I3MTEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dqcUD8OJFtTFj8yND1/giphy.gif" width="100">
+</div>
 
 **Code crafter by day, motion designer by night.** Building with React/Next.js, designing with Figma & After Effects, and diving into AI/LLM development.
 
@@ -107,10 +109,12 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AamnaKhan-Dev&show_icons=true&theme=radical&title_color=00ffe0&icon_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
+      <!-- Includes private commits -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AamnaKhan-Dev&show_icons=true&count_private=true&theme=radical&title_color=00ffe0&icon_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&theme=radical&title_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
+      <!-- Languages including private repos -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamnaKhan-Dev&layout=compact&count_private=true&theme=radical&title_color=00ffe0&text_color=ffffff&bg_color=0d1117" />
     </td>
   </tr>
 </table>
