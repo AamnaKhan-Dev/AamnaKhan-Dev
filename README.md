@@ -15,7 +15,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o5anJiZDE0aXVzbW10Z2U4a2I5a2JuOThiYmNuYnpvc3I3MTEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dqcUD8OJFtTFj8yND1/giphy.gif" width="100">
 </div>
 
-**Code crafter by day, motion designer by night.** Building with React/Next.js, designing with Figma & After Effects, and diving into AI/LLM development.
+**Simply, A Vibe Coder.** Building with React/Next.js, designing with Figma & After Effects, and diving into AI/LLM development.
 
 🔭 **Currently Focused On:** DevOps, LLM pipelines, NLP, voice-to-text systems, and prompt engineering  
 🌱 **Learning:** PyTorch, Hugging Face, Docker, Motion Design  
